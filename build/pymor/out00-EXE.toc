@@ -1,9 +1,0 @@
-('/Users/tim/MYprojects/pymor/build/pymor/pymor',
- True,
- False,
- None,
- None,
- [],
- None,
- False,
- 1436974150)
