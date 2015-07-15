@@ -1,0 +1,232 @@
+no module named nt.listdir - imported by nt, pyi_os_path, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_os_path.py
+no module named nt.environ - imported by nt, pyi_os_path, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_os_path.py
+no module named nt - imported by shutil, os, ntpath, pyi_os_path, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_os_path.py
+no module named nt._have_functions - imported by nt, os
+no module named nt._isdir - imported by nt, ntpath
+no module named nt._getfinalpathname - imported by nt, ntpath
+no module named nt._getfullpathname - imported by nt, ntpath
+no module named nt._getvolumepathname - imported by nt, ntpath
+no module named nt._exit - imported by nt, os
+no module named posix.listdir - imported by posix, pyi_os_path, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_os_path.py
+no module named posix.environ - imported by posix, pyi_os_path, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_os_path.py
+no module named posix._have_functions - imported by posix, os
+no module named posix._exit - imported by posix, os
+no module named os.path - imported by pkgutil, shutil, py_compile, unittest.util, os, sysconfig, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_carchive.py
+no module named os.path.realpath - imported by os.path, sysconfig
+no module named os.path.defpath - imported by os.path, os
+no module named os.path.devnull - imported by os.path, os
+no module named os.path.extsep - imported by os.path, os
+no module named os.path.sep - imported by os.path, os
+no module named os.path.curdir - imported by os.path, os
+no module named os.path.pardir - imported by os.path, os, sysconfig
+no module named os.path.pathsep - imported by os.path, os
+no module named os.path.altsep - imported by os.path, os
+no module named os.path.commonprefix - imported by os.path, unittest.util
+no module named os.path.abspath - imported by os.path, shutil
+no module named .pyi_archive - imported by , /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_carchive.py
+no module named  - imported by /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_carchive.py
+no module named pyi_crypto_key - imported by pyi_crypto
+no module named pyi_archive.ZlibArchive - imported by pyi_archive, pyi_importers, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_importers.py
+no module named pyi_archive.ArchiveReadError - imported by pyi_archive, pyi_importers, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_importers.py
+no module named _frozen_importlib - imported by importlib, pyi_archive, pyi_importers, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_importers.py, /Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_archive.py
+no module named _warnings._onceregistry - imported by _warnings, warnings
+no module named _warnings.warn_explicit - imported by _warnings, warnings
+no module named _warnings.warn - imported by _warnings, warnings
+no module named _warnings.filters - imported by _warnings, warnings
+no module named _warnings._defaultaction - imported by _warnings, warnings
+no module named _warnings._filters_mutated - imported by _warnings, warnings
+no module named _sre.MAXREPEAT - imported by _sre, sre_constants, sre_parse, sre_compile
+no module named re.escape - imported by re, _strptime
+no module named re.IGNORECASE - imported by re, _strptime
+no module named re.compile - imported by re, _strptime
+no module named warnings.warn - imported by warnings, plistlib, random
+no module named builtins.str - imported by builtins, locale
+no module named builtins.abs - imported by builtins, operator
+no module named errno.ENOENT - imported by errno, gettext
+no module named _functools.partial - imported by _functools, functools
+no module named _functools.cmp_to_key - imported by _functools, functools
+no module named _thread.RLock - imported by _thread, functools
+no module named _thread.allocate_lock - imported by _thread, _strptime
+no module named _thread._local - imported by _thread, threading
+no module named _thread.stack_size - imported by _thread, threading
+no module named _thread.get_ident - imported by _thread, reprlib
+no module named copy.deepcopy - imported by copy, weakref, email.generator
+no module named _weakref.proxy - imported by _weakref, weakref, collections
+no module named _weakref.ReferenceType - imported by _weakref, weakref
+no module named _weakref.ProxyType - imported by _weakref, weakref
+no module named _weakref.ref - imported by _weakref, _weakrefset, weakref
+no module named _weakref.getweakrefcount - imported by _weakref, weakref
+no module named _weakref.CallableProxyType - imported by _weakref, weakref
+no module named _weakref.getweakrefs - imported by _weakref, weakref
+no module named collections.namedtuple - imported by collections, functools, difflib, inspect, selectors, urllib.parse, ssl, unittest.util, doctest
+no module named _functools.reduce - imported by _functools, functools
+no module named binascii.a2b_base64 - imported by binascii, email.base64mime, dawg_python.dawgs
+no module named binascii.b2a_base64 - imported by binascii, email.base64mime
+no module named binascii.a2b_qp - imported by binascii, quopri
+no module named binascii.b2a_qp - imported by binascii, quopri
+no module named codecs.mbcs_encode - imported by codecs, encodings.mbcs
+no module named codecs.mbcs_decode - imported by codecs, encodings.mbcs
+no module named unicodedata.ucd_3_2_0 - imported by unicodedata, stringprep, encodings.idna
+no module named _bz2.BZ2Compressor - imported by _bz2, bz2
+no module named _bz2.BZ2Decompressor - imported by _bz2, bz2
+no module named dummy_threading.RLock - imported by dummy_threading, bz2
+no module named _dummy_threading.__all__ - imported by _dummy_threading, dummy_threading
+no module named _dummy_threading - imported by dummy_threading
+no module named time.time - imported by time, subprocess, threading
+no module named time.monotonic - imported by time, subprocess, threading
+no module named _operator.__doc__ - imported by _operator, operator
+no module named sys.modules - imported by sys, dummy_threading
+no module named threading.RLock - imported by threading, _threading_local, bz2
+no module named threading.current_thread - imported by threading, _threading_local
+no module named collections.deque - imported by collections, ast, contextlib, shlex, threading, pydoc
+no module named _collections.deque - imported by _collections, collections, threading
+no module named _collections._count_elements - imported by _collections, collections
+no module named _collections.defaultdict - imported by _collections, collections
+no module named itertools.count - imported by itertools, heapq, threading
+no module named itertools.islice - imported by itertools, heapq, reprlib, threading
+no module named org.PyStringMap - imported by org, copy
+no module named org.python.core - imported by copy, xml.sax
+no module named org.python.core.imp - imported by org.python.core, xml.sax
+no module named org.python - imported by org.python.core
+no module named org - imported by copy, org.python
+no module named itertools.repeat - imported by itertools, collections, tokenize
+no module named itertools.chain - imported by itertools, heapq, collections, tokenize
+no module named itertools.starmap - imported by itertools, collections
+no module named itertools.tee - imported by itertools, heapq
+no module named _io.BufferedReader - imported by _io, io
+no module named _io.BufferedRWPair - imported by _io, io
+no module named _io.StringIO - imported by _io, io
+no module named _io.BytesIO - imported by _io, io
+no module named _io.BlockingIOError - imported by _io, io
+no module named _io.BufferedWriter - imported by _io, io
+no module named _io.IncrementalNewlineDecoder - imported by _io, io
+no module named _io.FileIO - imported by _io, io
+no module named _io.TextIOWrapper - imported by _io, io
+no module named _io.UnsupportedOperation - imported by _io, io
+no module named _io.BufferedRandom - imported by _io, io
+no module named _io.open - imported by _io, io
+no module named _io.DEFAULT_BUFFER_SIZE - imported by _io, io
+no module named pwd.getpwnam - imported by pwd, shutil
+no module named socket.SO_TYPE - imported by socket, ssl
+no module named socket.SOL_SOCKET - imported by socket, ssl
+no module named socket.SOCK_STREAM - imported by socket, ssl
+no module named socket.AF_INET - imported by socket, ssl
+no module named _winapi.SW_HIDE - imported by _winapi, subprocess
+no module named _winapi.CREATE_NEW_PROCESS_GROUP - imported by _winapi, subprocess
+no module named _winapi.STD_ERROR_HANDLE - imported by _winapi, subprocess
+no module named _winapi.STD_INPUT_HANDLE - imported by _winapi, subprocess
+no module named _winapi.CREATE_NEW_CONSOLE - imported by _winapi, subprocess
+no module named _winapi.STARTF_USESTDHANDLES - imported by _winapi, subprocess
+no module named _winapi.STD_OUTPUT_HANDLE - imported by _winapi, subprocess
+no module named _winapi.STARTF_USESHOWWINDOW - imported by _winapi, subprocess
+no module named math.sqrt - imported by math, random
+no module named math.sin - imported by math, random
+no module named math.cos - imported by math, random
+no module named math.acos - imported by math, random
+no module named math.ceil - imported by math, random
+no module named math.pi - imported by math, random
+no module named math.log - imported by math, random
+no module named math.e - imported by math, random
+no module named math.exp - imported by math, random
+no module named _winapi - imported by subprocess
+no module named msvcrt - imported by subprocess, getpass
+no module named _lzma._encode_filter_properties - imported by _lzma, lzma
+no module named _lzma._decode_filter_properties - imported by _lzma, lzma
+no module named grp.getgrnam - imported by grp, shutil
+no module named hashlib.sha512 - imported by hashlib, random
+no module named _hashlib.pbkdf2_hmac - imported by _hashlib, hashlib
+no module named os.urandom - imported by os, random
+no module named _datetime.__doc__ - imported by _datetime, datetime
+no module named datetime.date - imported by datetime, _strptime
+no module named datetime.timedelta - imported by datetime, _strptime
+no module named datetime.timezone - imported by datetime, _strptime
+no module named winreg - imported by platform, mimetypes, urllib.request
+no module named _ssl.enum_crls - imported by _ssl, ssl
+no module named _ssl.enum_certificates - imported by _ssl, ssl
+no module named _ssl.PROTOCOL_TLSv1_1 - imported by _ssl, ssl
+no module named _ssl.PROTOCOL_TLSv1_2 - imported by _ssl, ssl
+no module named _ssl.PROTOCOL_SSLv2 - imported by _ssl, ssl
+no module named _ssl._OPENSSL_API_VERSION - imported by _ssl, ssl
+no module named _ssl.HAS_NPN - imported by _ssl, ssl
+no module named _ssl.HAS_ECDH - imported by _ssl, ssl
+no module named _ssl.HAS_SNI - imported by _ssl, ssl
+no module named _ssl.RAND_egd - imported by _ssl, ssl
+no module named _ssl.RAND_add - imported by _ssl, ssl
+no module named _ssl.RAND_status - imported by _ssl, ssl
+no module named _ssl.RAND_bytes - imported by _ssl, ssl
+no module named _ssl.RAND_pseudo_bytes - imported by _ssl, ssl
+no module named _ssl.nid2obj - imported by _ssl, ssl
+no module named _ssl.txt2obj - imported by _ssl, ssl
+no module named _ssl.VERIFY_CRL_CHECK_CHAIN - imported by _ssl, ssl
+no module named _ssl.VERIFY_X509_STRICT - imported by _ssl, ssl
+no module named _ssl.VERIFY_CRL_CHECK_LEAF - imported by _ssl, ssl
+no module named _ssl.VERIFY_DEFAULT - imported by _ssl, ssl
+no module named _ssl.CERT_OPTIONAL - imported by _ssl, ssl
+no module named _ssl.CERT_REQUIRED - imported by _ssl, ssl
+no module named _ssl.CERT_NONE - imported by _ssl, ssl
+no module named _ssl.SSLError - imported by _ssl, ssl
+no module named _ssl.SSLWantReadError - imported by _ssl, ssl
+no module named _ssl.SSLEOFError - imported by _ssl, ssl
+no module named _ssl.SSLWantWriteError - imported by _ssl, ssl
+no module named _ssl.SSLSyscallError - imported by _ssl, ssl
+no module named _ssl.SSLZeroReturnError - imported by _ssl, ssl
+no module named _ssl._SSLContext - imported by _ssl, ssl
+no module named _ssl.OPENSSL_VERSION_NUMBER - imported by _ssl, ssl
+no module named _ssl.OPENSSL_VERSION_INFO - imported by _ssl, ssl
+no module named _ssl.OPENSSL_VERSION - imported by _ssl, ssl
+no module named vms_lib - imported by platform
+no module named java.System - imported by java, platform
+no module named java.lang - imported by platform, xml.sax._exceptions
+no module named java.lang.Exception - imported by java.lang, xml.sax._exceptions
+no module named java - imported by platform, java.lang
+no module named xml.parsers.expat.ParserCreate - imported by xml.parsers.expat, plistlib
+no module named _scproxy._get_proxies - imported by _scproxy, urllib.request
+no module named _scproxy._get_proxy_settings - imported by _scproxy, urllib.request
+no module named win32con.VER_PLATFORM_WIN32_WINDOWS - imported by win32con, platform
+no module named win32con.VER_PLATFORM_WIN32_NT - imported by win32con, platform
+no module named win32con.HKEY_LOCAL_MACHINE - imported by win32con, platform
+no module named win32con.VER_NT_WORKSTATION - imported by win32con, platform
+no module named win32con - imported by platform
+no module named win32api.RegCloseKey - imported by win32api, platform
+no module named win32api.RegOpenKeyEx - imported by win32api, platform
+no module named win32api.GetVersionEx - imported by win32api, platform
+no module named win32api.RegQueryValueEx - imported by win32api, platform
+no module named win32api - imported by platform
+no module named zipimport.zipimporter - imported by zipimport, pkgutil
+no module named _opcode.stack_effect - imported by _opcode, opcode
+no module named collections.ChainMap - imported by collections, string
+no module named collections.OrderedDict - imported by collections, inspect, pprint, enum, email._header_value_parser, unittest.util
+no module named codecs.lookup - imported by codecs, tokenize
+no module named _imp.load_dynamic - imported by _imp, imp
+no module named _imp.get_frozen_object - imported by _imp, imp
+no module named _imp.acquire_lock - imported by _imp, imp
+no module named _imp.release_lock - imported by _imp, imp
+no module named _imp._fix_co_filename - imported by _imp, imp
+no module named _imp.is_frozen - imported by _imp, imp
+no module named _imp.is_builtin - imported by _imp, imp
+no module named _imp.init_builtin - imported by _imp, imp
+no module named _imp.is_frozen_package - imported by _imp, imp
+no module named _imp.lock_held - imported by _imp, imp
+no module named _imp.init_frozen - imported by _imp, imp
+no module named ce._have_functions - imported by ce, os
+no module named ce._exit - imported by ce, os
+no module named ce - imported by os
+no module named _struct.__doc__ - imported by _struct, struct
+no module named _struct._clearcache - imported by _struct, struct
+no module named usercustomize - imported by site
+no module named __builtin__ - imported by pipe
+no module named psutil - imported by pymorphy2.utils
+no module named urllib2.urlopen - imported by urllib2, pymorphy2.utils
+no module named urllib2 - imported by pymorphy2.utils
+no module named _json.make_encoder - imported by _json, json.encoder
+no module named _json.encode_basestring_ascii - imported by _json, json.encoder
+no module named _json.scanstring - imported by _json, json.decoder
+no module named _json.make_scanner - imported by _json, json.scanner
+no module named lxml.iterparse - imported by lxml, pymorphy2.opencorpora_dict.parse
+no module named lxml.etree - imported by pymorphy2.opencorpora_dict.parse
+no module named lxml - imported by pymorphy2.opencorpora_dict.parse
+no module named dawg.IntCompletionDAWG - imported by dawg, pymorphy2.dawg
+no module named dawg.RecordDAWG - imported by dawg, pymorphy2.dawg
+no module named dawg.DAWG - imported by dawg, pymorphy2.dawg
+no module named dawg - imported by pymorphy2.dawg
+no module named sys.intern - imported by sys, pymorphy2.tagset

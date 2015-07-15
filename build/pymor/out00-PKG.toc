@@ -1,0 +1,11 @@
+('/Users/tim/MYprojects/pymor/build/pymor/out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', '/Users/tim/MYprojects/pymor/build/pymor/out00-PYZ.pyz', 'PYZ'), ('_struct', '/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4/lib-dynload/_struct.so', 'EXTENSION'), ('struct', '/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4/struct.pyo', 'PYMODULE'), ('pyi_os_path', '/Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', '/Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', '/Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', '/Users/tim/tmp/pyinstaller/PyInstaller/loader/_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', '/Users/tim/tmp/pyinstaller/PyInstaller/loader/pyi_carchive.py', 'PYSOURCE'), ('pymor', '/Users/tim/MYprojects/pymor/pymor.py', 'PYSOURCE'), ('S', None, 'OPTION')],
+ True,
+ None,
+ False)
